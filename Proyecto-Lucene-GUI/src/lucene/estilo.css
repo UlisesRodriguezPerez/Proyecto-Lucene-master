@@ -1,0 +1,31 @@
+#grdIndexacion {
+	-fx-background-color: linear-gradient(to bottom right, #7ecfc2, #5e99ab);
+}
+
+#grdBusqueda {
+	-fx-background-color: linear-gradient(to bottom right,  #7ecfc2, #5e99ab);
+}
+
+#tabIndexacion{
+	-fx-background-color: #6a8eba;
+}
+
+#tabBusqueda{
+	-fx-background-color: #6a8eba;
+}
+
+#tbpVentanas .tab-header-area-area {
+	-fx-background-color: linear-gradient(to bottom right,  #4b5896, #6a76b0);
+}
+
+.button {
+	-fx-background-color: linear-gradient(to bottom right, #4089db, #3c78bd);
+}
+
+.button:hover {
+	-fx-background-color: linear-gradient(to bottom right, #2597b8, #329cba);
+}
+
+.button:pressed {
+	-fx-background-color: linear-gradient(to bottom right, #1f768f, #2e859e);
+}
